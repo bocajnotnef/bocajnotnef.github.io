@@ -6,4 +6,4 @@ past three years.
 
 # more info
 
-My resume is available [on Github](github.com/bocajnotnef/resume)
+My resume is available [on Github](http://github.com/bocajnotnef/resume)
