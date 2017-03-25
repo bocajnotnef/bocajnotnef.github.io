@@ -14,14 +14,14 @@ rankings = ["abysmal", "novice", "learning",
 
 | skill         | ability     | interest  |
 |:--------------|:------------|:----------|
-| c++           | competent   | high      |
+| c++           | skilled     | high      |
 | java          | novice      | moderate  |
-| python        | competent   | high      |
-| git           | competent   | high      |
+| python        | skilled     | high      |
+| git           | skilled     | high      |
 | ruby          | abysmal     | moderate  |
 | javascript    | novice      | moderate  |
-| linux admin   | competent   | high      |
-| windows admin | learning    | low       |
+| linux admin   | skilled     | high      |
+| windows admin | competent   | low       |
 | webdev        | novice      | moderate  |
 
 # interests
